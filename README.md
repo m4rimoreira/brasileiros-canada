@@ -1,4 +1,4 @@
-# 🇧🇷 Brasileiros no Canadá — Análise Demográfica
+# 🇧🇷🇨🇦 Brasileiros no Canadá — Análise Demográfica
 
 Análise exploratória da imigração brasileira para o Canadá usando Python e Pandas.
 
