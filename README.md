@@ -6,7 +6,7 @@ Análise exploratória da imigração brasileira para o Canadá usando Python e 
 Responder perguntas sobre evolução, distribuição geográfica, perfil etário e vias de imigração da comunidade brasileira no Canadá.
 
 ## 📊 Fontes de dados
-- Immigration to Canada by Country of Origin (Keggle)## 📊 Fonte dos dados
+- Immigration to Canada by Country of Origin (Keggle)
 
 - **Origem oficial:** Immigration, Refugees and Citizenship Canada (IRCC)
 - **Portal:** [open.canada.ca](https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda)
